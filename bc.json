@@ -105,7 +105,7 @@
         {
             "slug": "05.3-Add-items-to-array",
             "title": "05.3-Add-items-to-array",
-            "done": false,
+            "done": true,
             "path": "exercises/05.3-Add-items-to-array",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "06.5-One-last-looping",
             "title": "06.5-One-last-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/06.5-One-last-looping",
             "translations": [
                 "es",
@@ -215,7 +215,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",

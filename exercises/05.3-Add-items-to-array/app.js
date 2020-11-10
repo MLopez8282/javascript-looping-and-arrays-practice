@@ -1,7 +1,7 @@
 var arr = [4,5,734,43,45];
-for(let arr = 0;  arr.length <= 10; arr++){
-    Math.floor(Math.random() * 10)
-    return  arr.push(arr.length)
+for(let i= 0;  i < 10; i++){
+   let num =  Math.floor(Math.random() * 10)
+    arr.push(num)
         
    
 
