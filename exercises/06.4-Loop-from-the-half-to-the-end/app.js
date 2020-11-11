@@ -4,6 +4,6 @@ var initialValue = mySampleArray.length -1;
 var stopValue = mySampleArray.length / 2 ;
 var increasingValue = 1;
 
-for(var i = initialValue; i < stopValue; i++){
+for(let i = initialValue; i < stopValue; i++){
 	console.log(mySampleArray[i]);
 };

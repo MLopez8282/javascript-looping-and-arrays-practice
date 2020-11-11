@@ -1,9 +1,6 @@
 function sumTheElements(theArray){
 	
-    var total = 0;
-    for(i=0; i < sumTheElements; i++){
-        
-    }
+	var total = 0;
 	
 	//your code here
 

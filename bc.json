@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e17bc06b-a3a6-4e39-930d-ab12f77594e2.ws-us02.gitpod.io",
+    "address": "https://e7620b2d-9f79-4476-8cf0-5ed89552a8c6.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -94,7 +94,7 @@
         {
             "slug": "05.2-Loop-from-seven-to-twelve",
             "title": "05.2-Loop-from-seven-to-twelve",
-            "done": false,
+            "done": true,
             "path": "exercises/05.2-Loop-from-seven-to-twelve",
             "translations": [
                 "es",
@@ -116,7 +116,7 @@
         {
             "slug": "06.1-Loop-Array",
             "title": "06.1-Loop-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/06.1-Loop-Array",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "06.2-Loop-from-the-top",
             "title": "06.2-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/06.2-Loop-from-the-top",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "06.3-Loop-adding-two",
             "title": "06.3-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/06.3-Loop-adding-two",
             "translations": [
                 "es",
@@ -171,7 +171,7 @@
         {
             "slug": "07.1-Finding-Wally",
             "title": "07.1-Finding-Wally",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-Finding-Wally",
             "translations": [
                 "es",
@@ -193,7 +193,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
@@ -204,7 +204,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",

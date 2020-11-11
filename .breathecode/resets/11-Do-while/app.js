@@ -1,6 +1,5 @@
 let i = 20;
 do {
-    
     // Magic goes here;
     
     i--;

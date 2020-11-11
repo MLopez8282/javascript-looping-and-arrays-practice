@@ -2,14 +2,5 @@ var myArray = [3344,34334,454543,342534,4563456,3445,23455,234,262,2335,43323,43
 
 myArray.forEach(function(item, index, arr){
     // The value of the item is
-    myArray.forEach(function(){
-    if(myArray[i] % 14 === 0){
-            return myArray[i];
-    }
-    }
-    // The value of the item is
-
-});
-
-//so instead of for loops, the new way is to use higher order functions?
     console.log(item);
+});
