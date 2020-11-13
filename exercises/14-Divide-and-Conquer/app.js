@@ -3,7 +3,7 @@ let list_of_numbers = [4, 80, 85, 59, 37, 25, 5, 64, 66, 81, 20, 64, 41, 22, 76,
 const mergeTwoList = arr => {
     let oddNumbers = [];
     for (i = 0; i < arr.length - 1; i++) {
-        if (arr % 3 === 0) {
+        if (arr % 2 !== 0) {
             oddNumbers.push(arr)
         }
     };
