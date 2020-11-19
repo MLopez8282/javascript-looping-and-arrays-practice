@@ -3,20 +3,21 @@ let myArray = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 1 ];
 const ZerosToYahoos = (arr) => {
     let return_array = [];
     arr.forEach((item,index) => {
-        for(let i = 0; i < myArray.length; i++){
+        let myArray = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 1 ];
+
+       //for(let index = 0; index < myArray.length; index++){
         if(item === '1'){
-            return_array.push(myArray[i])
-        }else if(item === '0'){
-                    return_array.push(myArray[i])
+            myArray.push(return_array[index['1']]);
+        }else if(item  === '0'){
+                    myArray.push(return_array[index('Yahoo')]);
         
-                
-                    }
-            
-                 return return_array;
-            }
-             }
-    );
-             
-        console.log(ZerosToYahoos(myArray[i]));
-            // magic goes inside these bracket
-    
+       // }
+                    };
+                    return return_array;
+                }
+    )};
+        
+
+
+console.log(myArray);
+//.forEach parentheisis

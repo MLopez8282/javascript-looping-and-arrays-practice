@@ -5,7 +5,7 @@ const mergeArrays = (firstArray, secondArray) => {
     let newArray = [];
     for(let i = 0; i < chunk_one.length ; i++){
         for (let j = 0; j < chunk_two.length ; j++){
-          let arrays = firstArray[i].concat(secondArray[i])
+          let arrays = firstArray[i].concat(secondArray[j])
            newArray.push(arrays)
              
             

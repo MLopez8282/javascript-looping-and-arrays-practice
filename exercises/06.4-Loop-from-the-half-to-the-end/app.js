@@ -8,3 +8,4 @@ var increasingValue = 1;
 for(let i = initialValue; i < stopValue; i = i + increasingValue){
 	console.log(mySampleArray[i]);
 };
+//is for...in the better way?
