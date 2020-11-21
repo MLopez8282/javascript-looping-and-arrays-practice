@@ -2,20 +2,21 @@ let list_of_numbers = [4, 80, 85, 59, 37, 25, 5, 64, 66, 81, 20, 64, 41, 22, 76,
 
 const mergeTwoList = arr => {
     let oddNumbers = [];
-    for (i = 0; i < arr.length - 1; i++) {
-        if (arr % 2 !== 0) {
-            oddNumbers.push(arr)
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] % 2 !== 0) {
+            oddNumbers.push(arr[i])
         }
     };
     let evenNumbers = [];
-    for (j = 0; j < arr.length - 1; i++) {
-        if (arr % 2 === 0) {
-            evenNumbers.push(arr)
+    for (let j = 0; j < arr.length; j++) {
+        if (arr[j] % 2 === 0) {
+            evenNumbers.push(arr[j])
         };
 
-        let arrays = oddNumbers.concat(evenNumbers)
-        return evenNumbers.push(arrays);
+       
     };
+     let arrays = oddNumbers.concat(evenNumbers)
+        return arrays
 };
 
 console.log(mergeTwoList(list_of_numbers));

@@ -149,7 +149,7 @@
         {
             "slug": "06.4-Loop-from-the-half-to-the-end",
             "title": "06.4-Loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/06.4-Loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -226,7 +226,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -237,7 +237,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
@@ -248,7 +248,7 @@
         {
             "slug": "10.1-Everything-is-awesome",
             "title": "10.1-Everything-is-awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-Everything-is-awesome",
             "translations": [
                 "es",
@@ -270,7 +270,7 @@
         {
             "slug": "12-Delete-element",
             "title": "12-Delete-element",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Delete-element",
             "translations": [
                 "es",
@@ -292,7 +292,7 @@
         {
             "slug": "14-Divide-and-Conquer",
             "title": "14-Divide-and-Conquer",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Divide-and-Conquer",
             "translations": [
                 "es",
@@ -314,7 +314,7 @@
         {
             "slug": "16-Foreach-min-val",
             "title": "16-Foreach-min-val",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Foreach-min-val",
             "translations": [
                 "es",
@@ -325,7 +325,7 @@
         {
             "slug": "17-The-for-loop",
             "title": "17-The-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-The-for-loop",
             "translations": [
                 "es",
@@ -413,7 +413,7 @@
         {
             "slug": "20.6-Yes-and-no",
             "title": "20.6-Yes-and-no",
-            "done": false,
+            "done": true,
             "path": "exercises/20.6-Yes-and-no",
             "translations": [
                 "es",

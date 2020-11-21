@@ -4,9 +4,11 @@ function deletePerson(personName)
 {
     let newList = [];
     for(let i = 0; i < people.length; i++){
-    if(people[i] === personName){
-        delete people[i];
-        newList.push(people);
+    if(people[i] !== personName){
+        newList.push(people[i]);
+        
+        //delete people[i];
+
     }
 };
     return newList
